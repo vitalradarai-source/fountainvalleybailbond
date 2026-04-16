@@ -22,7 +22,7 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-fountain-valley | what happens after an arrest in Fountain Valley | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-fountain-valley | how do bail bonds work in Fountain Valley | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-fountain-valley | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-fountain-valley | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-fountain-valley | how to get someone out of jail in Fountain Valley | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-fountain-valley | domestic violence bail bonds Fountain Valley | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-fountain-valley | DUI bail bonds Fountain Valley | DUI | ⬜ |
