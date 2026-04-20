@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-fountain-valley | how much does a bail bondsman charge in Fountain Valley | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-fountain-valley | bail bond payment plan Fountain Valley | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-fountain-valley | jail booking process at Fountain Valley PD | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-fountain-valley | how to find someone in jail Fountain Valley | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-fountain-valley | what to expect at arraignment Westminster Courthouse | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-fountain-valley | bail hearing process in Orange County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-fountain-valley | warrant bail bonds Fountain Valley | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-fountain-valley | what happens if you miss court date Fountain Valley | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-fountain-valley | assault and battery bail bonds Fountain Valley | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-fountain-valley | theft and burglary bail bonds Fountain Valley | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-fountain-valley | how to choose a bail bondsman in Fountain Valley | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-fountain-valley | what does a bail bond cosigner do Fountain Valley | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-fountain-valley | bail conditions and restrictions Orange County | Conditions | ⬜ |
+| 2026-04-21 | Tue | bench-warrant-fountain-valley | bench warrant bail bonds Fountain Valley | Bench Warrant | ⬜ |
+| 2026-04-22 | Wed | restraining-order-bail-fountain-valley | restraining order and bail Fountain Valley | Restraining Order | ⬜ |
+| 2026-04-23 | Thu | bail-bond-cost-fountain-valley | how much does a bail bondsman charge in Fountain Valley | Costs | ⬜ |
+| 2026-04-24 | Fri | bail-bond-payment-plan-fountain-valley | bail bond payment plan Fountain Valley | Payment Plans | ⬜ |
+| 2026-04-25 | Sat | jail-booking-process-fountain-valley | jail booking process in Fountain Valley | Jail Process | ⬜ |
+| 2026-04-26 | Sun | inmate-search-fountain-valley | how to find someone in jail Fountain Valley | Inmate Search | ⬜ |
+| 2026-04-27 | Mon | what-to-expect-arraignment-fountain-valley | what to expect at arraignment in Orange | Court Process | ⬜ |
+| 2026-04-28 | Tue | bail-hearing-fountain-valley | bail hearing process in Orange | Bail Hearing | ⬜ |
+| 2026-04-29 | Wed | warrant-bail-bonds-fountain-valley | warrant bail bonds Fountain Valley | Warrants | ⬜ |
+| 2026-04-30 | Thu | what-happens-miss-court-fountain-valley | what happens if you miss court date Fountain Valley | FTA | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
