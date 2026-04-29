@@ -41,7 +41,7 @@
 | 2026-04-26 | Sun | inmate-search-fountain-valley | how to find someone in jail Fountain Valley | Inmate Search | ⬜ |
 | 2026-04-27 | Mon | what-to-expect-arraignment-fountain-valley | what to expect at arraignment in Orange | Court Process | ⬜ |
 | 2026-04-28 | Tue | bail-hearing-fountain-valley | bail hearing process in Orange | Bail Hearing | ⬜ |
-| 2026-04-29 | Wed | warrant-bail-bonds-fountain-valley | warrant bail bonds Fountain Valley | Warrants | ⬜ |
+| 2026-04-29 | Wed | warrant-bail-bonds-fountain-valley | warrant bail bonds Fountain Valley | Warrants | ✅ published |
 | 2026-04-30 | Thu | what-happens-miss-court-fountain-valley | what happens if you miss court date Fountain Valley | FTA | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
